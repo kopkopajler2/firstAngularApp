@@ -10,8 +10,8 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   <tr>
     <td>Lesson1</td>
     <td>
-      Updated component to render "Hello world!" </br>
-      ng serve command to build app and display in browser.
+     - Updated component to render "Hello world!" </br>
+     - <i>ng serve</i> command to build app and display in browser.
     </td>
   </tr>
   <tr>
