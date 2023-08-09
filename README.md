@@ -62,7 +62,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson12</td>
-    <td></td>
+    <td>Form added using forms feature. Data captured in the form to a component using an event handler</td>
   </tr>
   <tr>
     <td>Lesson13</td>
