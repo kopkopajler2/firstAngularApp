@@ -51,6 +51,26 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
     <td>Lesson9</td>
     <td>Service injected in the HomeComponent class to get data from static array of data</td>
   </tr>
+  <tr>
+    <td>Lesson10</td>
+    <td>Routing enabled to navigation between views.</td>
+  </tr>
+  <tr>
+    <td>Lesson11</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lesson12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lesson13</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lesson14</td>
+    <td></td>
+  </tr>
 </table>
 
 
