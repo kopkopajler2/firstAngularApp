@@ -9,10 +9,16 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
 <table align="center">
   <tr>
     <td>Lesson1</td>
-    <td></td>
+    <td>
+      Updated component to render "Hello world!" </br>
+      ng serve command to build app and display in browser.
+    </td>
   </tr>
   <tr>
     <td>Lesson2</td>
+    <td>
+      Create components with <i>ng generate component</i> command
+    </td>
   </tr>
   <tr>
     <td>Lesson3</td>
@@ -41,6 +47,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson9</td>
+    <td>Service injected in the HomeComponent class to get data from static array of data</td>
   </tr>
 </table>
 
