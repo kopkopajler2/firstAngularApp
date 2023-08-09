@@ -22,9 +22,11 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson3</td>
+    <td> New component HousingLocation added to the app's layout.</td>
   </tr>
   <tr>
     <td>Lesson4</td>
+    <td>New data Type by housingLocation interface creation that ensure data use</td>
   </tr>
   <tr>
     <td>Lesson5</td>
