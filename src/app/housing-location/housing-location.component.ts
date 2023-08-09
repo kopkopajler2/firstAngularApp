@@ -14,6 +14,6 @@ import { HousingLocation } from '../housinglocation';
 })
 //Here i use the data binding from my interface and force a type.
 export class HousingLocationComponent {
-  @Input() HousingLocation! : HousingLocation;
+  @Input() housingLocation! : HousingLocation;
 
 }
