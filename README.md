@@ -12,32 +12,31 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
     <td></td>
   </tr>
   <tr>
-    <td>User Login</td>
+    <td>Lesson2</td>
   </tr>
   <tr>
-    <td>Add a task with a description</td>
+    <td>Lesson3</td>
   </tr>
   <tr>
-    <td>Delete a task</td>
-  </tr>
-  <tr>
-    <td>Update a task</td>
-  </tr>
-  <tr>
-    <td>Get a task</td>
-  </tr>
-  <tr>
-    <td>Get all tasks</td>
+    <td>Lesson4</td>
   </tr>
   <tr>
     <td>Lesson5</td>
     <td>In this lesson, i created a new property decorated with the @Input() decorator. I also used the non-null assertion operator to notify the compiler that the value of the new property won't be null or undefined.</td>
   </tr>
   <tr>
-    <td>Get all tasks by status *</td>
+    <td>Lesson6</td>
+  </tr>
+  <tr>
+    <td>Lesson7</td>
+  </tr>
+  <tr>
+    <td>Lesson8</td>
+  </tr>
+  <tr>
+    <td>Lesson9</td>
   </tr>
 </table>
 
 
-<h3>Lesson5</h3>
-<p>In this lesson, i created a new property decorated with the @Input() decorator. I also used the non-null assertion operator to notify the compiler that the value of the new property won't be null or undefined.</p>
+
