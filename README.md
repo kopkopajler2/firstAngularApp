@@ -26,6 +26,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson6</td>
+    <td>New property binding and passed in a reference to a class property. Now, the HousingLocationComponent has access to data that it can use to customize the component's display.</td>
   </tr>
   <tr>
     <td>Lesson7</td>
