@@ -1,3 +1,5 @@
+
+//Interface creation. It's data binding.
 export interface HousingLocation {
   id: number;
   name: string;
