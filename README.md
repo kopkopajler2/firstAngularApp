@@ -66,7 +66,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson13</td>
-    <td></td>
+    <td>#filter template variable to interact with the input text for searching by filtered term</td>
   </tr>
   <tr>
     <td>Lesson14</td>
