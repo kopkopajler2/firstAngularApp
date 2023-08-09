@@ -30,6 +30,10 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson7</td>
+    <td> <ul>
+      passing data to components
+Interpolating values into a template 
+    </ul></td>
   </tr>
   <tr>
     <td>Lesson8</td>
