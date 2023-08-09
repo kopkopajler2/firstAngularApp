@@ -37,6 +37,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson8</td>
+    <td>*ngFor directive to repeat data dynamically from a new array of data that renders a list of housing locations in the browser.</td>
   </tr>
   <tr>
     <td>Lesson9</td>
