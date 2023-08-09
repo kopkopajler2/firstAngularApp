@@ -57,7 +57,8 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson11</td>
-    <td></td>
+    <td>App updated to use route parameters to pass data, and routerLink to use dinamic data
+ to create a route and show specific information</td>
   </tr>
   <tr>
     <td>Lesson12</td>
