@@ -70,7 +70,7 @@ This tutorial consists of lessons that introduce the Angular concepts you need t
   </tr>
   <tr>
     <td>Lesson14</td>
-    <td></td>
+    <td>Local web server json-server and asynchronous service methods to retrieve data. Img from api are not founded</td>
   </tr>
 </table>
 
