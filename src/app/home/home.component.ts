@@ -10,7 +10,7 @@ import { HousingService } from '../housing.service';
   template: `
     <section>
       <form>
-        <input type="text" placeholder="Filter by city" #filter />
+        <input type="text" placeholder="Szűrés város alapján" #filter />
         <button
           class="primary"
           type="button"
